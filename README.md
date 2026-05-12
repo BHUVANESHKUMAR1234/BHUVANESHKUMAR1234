@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭  I’m currently working on Dot Net, Angular, Azure<br>🌱  I’m currently learning AWS
+🔭  I’m currently working as Application Developer/Program Analyst @ CITI <br>🌱  I’m currently learning AI/ML courses.
 
 
 ## 🌐 Socials:
