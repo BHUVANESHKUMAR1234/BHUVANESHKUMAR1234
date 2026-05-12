@@ -2,7 +2,7 @@
 <h3 align="center">Application Developer |  AI & Full Stack Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Application+Developer+at+Citi;Full+Stack+.NET+Developer;AI+%26+Machine+Learning+Enthusiast;MBA+Student+%40+UWA;Building+Scalable+Enterprise+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Application+Developer+at+Citi;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;" alt="Typing SVG" />
 </p>
 
 ---
